@@ -1,0 +1,21 @@
+name: Wakatime Charts
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */5 * * *'
+
+jobs:
+  update-charts:
+    name: Update stats charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMITTER_NAME: MinhOmega
+          COMMITTER_EMAIL: minh.vo@orientsoftware.com
+          AUTHOR_NAME: MinhOmega
+          AUTHOR_EMAIL: minh.vo@orientsoftware.com
