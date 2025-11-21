@@ -3,21 +3,23 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I'm currently looking for a new job, focusing on React.js, Next.js, and React Native.
-- 🤔 &nbsp; Exploring advanced frontend technologies and continuously improving project performance and user experience.
+- 🔭 &nbsp; AI Engineer at Orient - Neurond, building Enterprise AI Assistant Platform with RAG systems and multi-tenant architecture.
+- 🤖 &nbsp; Passionate about AI-powered solutions, working with multiple AI providers and Vercel AI SDK.
 - 🎓 &nbsp; Graduated with a Bachelor's degree in Software Engineering from Hue University of Sciences.
-- 💼 &nbsp; Experienced in SaaS, e-commerce, and mobile app development with a strong background in JavaScript, TypeScript, and GraphQL.
-- ✍️ &nbsp; Passionate about mentoring and training junior developers, as well as gaming and personal development.
+- 💼 &nbsp; 6+ years of experience in enterprise SaaS, e-commerce, and mobile app development.
+- ✍️ &nbsp; Enjoy mentoring junior developers, conducting code reviews, and driving performance optimization.
 - ☕ &nbsp; I believe a perfect cup of coffee is the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; ReactJS | NextJS | Redux | JavaScript | TypeScript | GraphQL | RESTful APIs
-- 🖍️ &nbsp; Tailwind CSS | Chakra UI | Shadcn UI | SCSS | styled-components
+- 💻 &nbsp; JavaScript | TypeScript | GraphQL | SQL
+- ⚛️ &nbsp; React.js | Next.js 15/16 | Redux | NestJS | Vercel AI SDK
+- 🖍️ &nbsp; Tailwind CSS | Shadcn UI | SCSS | styled-components
 - 📱 &nbsp; React Native | Android Studio
-- 🔧 &nbsp; Firebase Services | Visual Studio Code | Git | AWS S3 | AWS AppSync
-- 🖥 &nbsp; Jira | Trello | Figma | Photoshop
-
+- 🗄️ &nbsp; PostgreSQL | pgvector | MongoDB | Prisma ORM | TypeORM
+- ☁️ &nbsp; Azure (Entra ID, Key Vault, Blob Storage, AKS) | AWS (Lambda, DynamoDB, S3, AppSync)
+- 🐳 &nbsp; Docker | Kubernetes | CI/CD
+- 🔧 &nbsp; Git | VSCode | Jira | Confluence | Figma
 
 
 
