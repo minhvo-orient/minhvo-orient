@@ -33,11 +33,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 mins               █████████░░░░░░░░░░░░░░░░   35.37 %
-Terraform    17 mins               ███████▓░░░░░░░░░░░░░░░░░   30.50 %
-HCL          16 mins               ███████░░░░░░░░░░░░░░░░░░   28.58 %
-YAML         3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
