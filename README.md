@@ -33,7 +33,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown      12 hrs 30 mins        ███████▓░░░░░░░░░░░░░░░░░   31.14 %
+TypeScript    9 hrs 36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+JavaScript    6 hrs 59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Astro         3 hrs 56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Other         2 hrs 11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
