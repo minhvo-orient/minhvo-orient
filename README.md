@@ -33,11 +33,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Astro        38 mins               █████████░░░░░░░░░░░░░░░░   36.02 %
-Markdown     36 mins               ████████▒░░░░░░░░░░░░░░░░   33.81 %
-Other        12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-HTML         11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-CSS          5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
